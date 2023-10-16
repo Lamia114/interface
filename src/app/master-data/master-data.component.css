@@ -1,0 +1,13 @@
+nav {
+    background-color:gainsboro; /* Set the background color as needed */
+    padding: 3px; /* Add padding to increase the height */
+  }
+  
+  .horizontal-menu {
+    list-style: none;
+    padding: 0;
+    display: flex; /* Display the list items horizontally */
+    font-size: 15px; /* Increase the font size */
+  }
+  
+  
